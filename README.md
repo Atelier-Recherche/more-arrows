@@ -1,12 +1,64 @@
-# Arrows
+<div align="center">
+
+<table>
+<tr>
+<td><img src="readme-media/logo_arrows.png" alt="MoreArrows" width="140" /></td>
+<td align="left">
+<h1 style="margin:0">MoreArrows</h1>
+<p style="margin:0.25em 0 0"><strong>Flèches dans les notes · Live Preview · Obsidian</strong><br/>Plugin · syntaxe Markdown · leader-line</p>
+</td>
+</tr>
+</table>
+
+<a href="https://atelier.atechnologie.fr/" title="l'Atelier – Association de fabrication de livres et d'outils de recherche"><img src="readme-media/logoasso.jpg" alt="l'Atelier" width="200" /></a>  
+<sub>Développé par <a href="https://atelier.atechnologie.fr/">l'Atelier</a> — fabrication de livres et outils de recherche (EHESS)</sub>
+
+<p>
+🇫🇷 <a href="README.md"><b>Français</b></a> ·
+🇬🇧 <a href="README.en.md">English</a> ·
+🇩🇪 <a href="README.de.md">Deutsch</a> ·
+🇪🇸 <a href="README.es.md">Español</a>
+</p>
+
+<p>
+<a href="https://atelier.atechnologie.fr/"><img src="https://img.shields.io/badge/🌐_l'Atelier-atelier.atechnologie.fr-2d5016?style=for-the-badge" alt="Site l'Atelier" /></a>
+<a href="https://github.com/Atelier-Recherche/more-arrows"><img src="https://img.shields.io/badge/📦_Dépôt-GitHub-181717?style=for-the-badge&logo=github" alt="Dépôt GitHub" /></a>
+<a href="https://obsidian.md/plugins?search=BRAT#"><img src="https://img.shields.io/badge/⬇️_Plugin_Obsidian-BRAT-7c3aed?style=for-the-badge&logo=obsidian&logoColor=white" alt="Installer le plugin via BRAT" /></a>
+</p>
+
+</div>
+
+---
+
+## 📸 Aperçu
+
+| Live Preview | Flèches |
+| :---: | :---: |
+| <img src="readme-media/screen1.jpg" alt="MoreArrows en Live Preview" width="400" /> | <img src="readme-media/screen2.jpg" alt="Flèches dans une note" width="400" /> |
+
+---
+
+## 📖 À propos
 
 Plugin pour [Obsidian](https://obsidian.md/) qui permet de dessiner des flèches dans vos notes, comme si vous reliais à la main différentes parties du texte.
 
 **Fonctionne uniquement en mode Aperçu en direct (Live Preview).**
 
-![demo](screenshots/demo.png)
+---
 
-## Utilisation
+## ⬇️ Plugin Obsidian (BRAT)
+
+1. 🔌 Installer **BRAT** : [Obsidian — BRAT](https://obsidian.md/plugins?search=BRAT#)
+2. ➕ Ajouter ce dépôt avec l’option *« Add Beta plugin »* :  
+   `https://github.com/Atelier-Recherche/more-arrows`
+
+> **ID du plugin** : `more-arrows`
+
+> 💡 Nos plugins peuvent être en attente de validation sur le catalogue Obsidian ; BRAT permet de les tester dès maintenant. Voir aussi 🌐 [l’Atelier](https://atelier.atechnologie.fr/).
+
+---
+
+## ✏️ Utilisation
 
 ### Dessiner des flèches
 
@@ -22,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur {ma-flèche|#1e90ff} adipiscing elit. Te
 Morbi et lacus suscipit, dignissim purus at, dapibus augue. {ma-flèche} Aliquam non lectus varius.
 ```
 
-<img width=450 src="./screenshots/drawing-arrows.png">
+<img width="450" src="./screenshots/drawing-arrows.png" alt="Dessiner des flèches" />
 
 ---
 
@@ -36,7 +88,7 @@ Lorem ipsum dolor sit amet, consectetur {ma-flèche2|#ff5555|diagonal} adipiscin
 Morbi et lacus suscipit, dignissim purus at, dapibus {ma-flèche2} augue. Aliquam non lectus varius.
 ```
 
-<img width=450 src="./screenshots/diagonal.png">
+<img width="450" src="./screenshots/diagonal.png" alt="Flèches diagonales" />
 
 ---
 
@@ -62,7 +114,7 @@ Lorem ipsum dolor sit amet, {autre-flèche|orange} consectetur adipiscing elit. 
 Morbi et lacus suscipit, dignissim purus at, dapibus augue. Aliquam non lectus varius, tempus tortor ac, commodo purus. {autre-flèche}
 ```
 
-<img width=450 src="./screenshots/more-arrows.png">
+<img width="450" src="./screenshots/more-arrows.png" alt="Plusieurs flèches" />
 
 ---
 
@@ -78,7 +130,7 @@ Morbi et lacus suscipit, dignissim purus at, dapibus augue. Aliquam non lectus v
 Pellentesque posuere ex non facilisis bibendum. Integer iaculis dolor dignissim, ultrices ligula eu, malesuada metus. {multi}
 ```
 
-<img width=450 src="./screenshots/multi-arrows.png">
+<img width="450" src="./screenshots/multi-arrows.png" alt="Multi-flèches" />
 
 ---
 
@@ -95,7 +147,7 @@ Pellentesque posuere {troisième} ex non facilisis bibendum. {deuxième}
 Integer iaculis dolor dignissim, ultrices ligula eu, malesuada metus. {première}
 ```
 
-<img width=450 src="./screenshots/adjusting-margin-arrows.png">
+<img width="450" src="./screenshots/adjusting-margin-arrows.png" alt="Position horizontale des flèches de marge" />
 
 ---
 
@@ -136,7 +188,7 @@ Morbi et lacus suscipit, {double} dignissim purus at, dapibus augue. {ligne|#9d6
 Pellentesque posuere ex non facilisis bibendum. {ligne|no-arrow}
 ```
 
-<img width=450 src="./screenshots/arrowheads.png">
+<img width="450" src="./screenshots/arrowheads.png" alt="Pointes de flèche" />
 
 ---
 
@@ -148,7 +200,7 @@ Un clic sur un ● fait défiler l’éditeur vers l’**identifiant suivant** c
 
 ---
 
-## Syntaxe complète
+## 📘 Syntaxe complète
 
 **Début de flèche** — `{identifiant|couleur|opacité|type|position-x|pointe}` où :
 
@@ -173,28 +225,56 @@ Une flèche est tracée du (ou des) début(s) vers **toutes** les fins portant l
 
 ---
 
-## Limitations
+## ⚠️ Limitations
 
 - Uniquement **Aperçu en direct** (pas en mode source seul de la même façon).
 
-## Contribution
+---
+
+## 🤝 Contribution
 
 Les contributions et les PR sont les bienvenues.
 
-## Provenance
+---
+
+## 📜 Provenance
 
 Ce dépôt est maintenu par [l'Atelier](https://atelier.atechnologie.fr/) et s’appuie sur le plugin original [Arrows](https://github.com/artisticat1/arrows) de **artisticat1** (licence MIT). L’auteur original est crédité comme contributeur du projet d’origine.
 
 > **Catalogue Obsidian** : si vous soumettez ce plugin au catalogue communautaire, la politique Obsidian sur les forks peut exiger l’accord écrit de l’auteur original ou la preuve qu’il est injoignable et inactif depuis 6 mois.
 
-## Catalogue Obsidian
+---
 
-- **ID plugin** : `arrows-in-md`
-- **Dépôt** : [github.com/Morglaf/arrows](https://github.com/Morglaf/arrows)
-- **Licence** : MIT — [LICENSE](LICENSE)
-- **Réseau** : non
-- **Release** : `.\Release-Plugin.ps1`
+## 📦 Catalogue Obsidian
 
-## Remerciements
+| Élément | Détail |
+| --- | --- |
+| **ID plugin** | `more-arrows` |
+| **Dépôt** | [github.com/Atelier-Recherche/more-arrows](https://github.com/Atelier-Recherche/more-arrows) |
+| **Licence** | MIT — [LICENSE](LICENSE) |
+| **Réseau** | non |
+| **Release** | `.\Release-Plugin.ps1` |
+
+---
+
+## 🙏 Remerciements
 
 Le projet utilise la bibliothèque [leader-line](https://anseki.github.io/leader-line/) pour le rendu des flèches.
+
+---
+
+## 🔗 Ressources
+
+| | |
+| --- | --- |
+| 🌐 **l'Atelier** | [atelier.atechnologie.fr](https://atelier.atechnologie.fr/) |
+| 📦 **Dépôt** | [github.com/Atelier-Recherche/more-arrows](https://github.com/Atelier-Recherche/more-arrows) |
+| 🔌 **Obsidian** | [obsidian.md](https://obsidian.md/) |
+
+---
+
+<div align="center">
+
+<sub>🇫🇷 <a href="README.md">Français</a> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.de.md">🇩🇪 Deutsch</a> · <a href="README.es.md">🇪🇸 Español</a> · MoreArrows — <a href="https://atelier.atechnologie.fr/">l'Atelier</a></sub>
+
+</div>

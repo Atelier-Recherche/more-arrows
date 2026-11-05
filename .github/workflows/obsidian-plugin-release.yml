@@ -36,7 +36,7 @@ jobs:
           test -f manifest.json
           test -f styles.css
           test -f versions.json
-          test -f arrows-release-notes.md
+          test -f more-arrows-release-notes.md
 
       - name: Create GitHub release (latest)
         uses: softprops/action-gh-release@v2
@@ -46,7 +46,7 @@ jobs:
           prerelease: false
           make_latest: true
           generate_release_notes: false
-          body_path: arrows-release-notes.md
+          body_path: more-arrows-release-notes.md
           files: |
             main.js
             manifest.json

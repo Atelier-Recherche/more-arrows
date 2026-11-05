@@ -11,9 +11,9 @@ Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
 $PluginSubdir = '.'
-$ReleaseNotesFile = 'arrows-release-notes.md'
-$ReleaseNotesTitle = 'Arrows'
-$GhActionsUrl = 'https://github.com/Atelier-Recherche/arrows/actions'
+$ReleaseNotesFile = 'more-arrows-release-notes.md'
+$ReleaseNotesTitle = 'MoreArrows'
+$GhActionsUrl = 'https://github.com/Atelier-Recherche/more-arrows/actions'
 $IncludeMainJsInCommit = $true
 
 function Test-CommandExists {
