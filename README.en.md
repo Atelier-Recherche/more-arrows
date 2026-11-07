@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td><img src="readme-media/logo_arrows.png" alt="MoreArrows" width="140" /></td>
+<td><img src="https://atelier.atechnologie.fr/wp-content/uploads/2026/09/mesure-1.webp" alt="MoreArrows" width="140" /></td>
 <td align="left">
 <h1 style="margin:0">MoreArrows</h1>
 <p style="margin:0.25em 0 0"><strong>Arrows in notes · Live Preview · Obsidian</strong><br/>Plugin · Markdown syntax · leader-line</p>
@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-<a href="https://atelier.atechnologie.fr/" title="l'Atelier – book fabrication and research tools association"><img src="readme-media/logoasso.jpg" alt="l'Atelier" width="200" /></a>  
+<a href="https://atelier.atechnologie.fr/" title="l'Atelier – book fabrication and research tools association"><img src="https://atelier.atechnologie.fr/wp-content/uploads/2026/11/logoasso.webp" alt="l'Atelier" width="200" /></a>  
 <sub>Developed by <a href="https://atelier.atechnologie.fr/">l'Atelier</a> — book fabrication and research tools (EHESS)</sub>
 
 <p>
