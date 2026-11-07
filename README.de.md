@@ -30,14 +30,6 @@
 
 ---
 
-## 📸 Vorschau
-
-| Live Preview | Pfeile |
-| :---: | :---: |
-| <img src="readme-media/screen1.jpg" alt="MoreArrows in Live Preview" width="400" /> | <img src="readme-media/screen2.jpg" alt="Pfeile in einer Notiz" width="400" /> |
-
----
-
 ## 📖 Über das Projekt
 
 Plugin für [Obsidian](https://obsidian.md/), mit dem Sie Pfeile in Ihren Notizen zeichnen können, als würden Sie verschiedene Textstellen von Hand verbinden.

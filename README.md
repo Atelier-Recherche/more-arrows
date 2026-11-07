@@ -30,13 +30,6 @@
 
 ---
 
-## 📸 Aperçu
-
-| Live Preview | Flèches |
-| :---: | :---: |
-| <img src="readme-media/screen1.jpg" alt="MoreArrows en Live Preview" width="400" /> | <img src="readme-media/screen2.jpg" alt="Flèches dans une note" width="400" /> |
-
----
 
 ## 📖 À propos
 

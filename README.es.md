@@ -30,14 +30,6 @@
 
 ---
 
-## 📸 Vista previa
-
-| Live Preview | Flechas |
-| :---: | :---: |
-| <img src="readme-media/screen1.jpg" alt="MoreArrows en Live Preview" width="400" /> | <img src="readme-media/screen2.jpg" alt="Flechas en una nota" width="400" /> |
-
----
-
 ## 📖 Acerca del proyecto
 
 Plugin para [Obsidian](https://obsidian.md/) que permite dibujar flechas en las notas, como si se unieran a mano distintas partes del texto.

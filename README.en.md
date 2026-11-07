@@ -30,13 +30,6 @@
 
 ---
 
-## 📸 Preview
-
-| Live Preview | MoreArrows |
-| :---: | :---: |
-| <img src="readme-media/screen1.jpg" alt="MoreArrows in Live Preview" width="400" /> | <img src="readme-media/screen2.jpg" alt="Arrows in a note" width="400" /> |
-
----
 
 ## 📖 About
 
